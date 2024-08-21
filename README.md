@@ -1,0 +1,1 @@
+# zepp-google-translate-api
